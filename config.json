@@ -1,0 +1,4 @@
+{
+    "telegram_token":"insert_token_here",
+    "gsheets_cred_file":"insert_filename_here.json"
+}
